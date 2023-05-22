@@ -5,7 +5,7 @@ html {
 :root {
     --blanco: #ffffff;
     --negro: #000000;
-    --purpura: #434371;
+    --purpura: #7d2181;
     --celeste: #3978F8;
 }
 
@@ -29,7 +29,7 @@ a {
 }
 
 #twitter:hover {
-    color:#3978F8;
+    color: lightblue;
 }
 
 #instagram:hover {
@@ -113,7 +113,7 @@ img.modalPintura {
 
 .btn-enviar {
     background-color: #ffffff;
-    color: #ffffff;
+    color: #000000;
     border-color: #000000;
 }
 
